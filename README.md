@@ -1,48 +1,48 @@
 ![Awesome Hacking](awesome_hacking.jpg)
 
-# [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+# [惊世黑客/Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 
-**A collection of awesome lists for hackers, pentesters & security researchers.**
+**献给黑客,渗透人员 & 安全研究人员的一份绝佳清单**
 
-Your [contributions](contributing.md) are always welcome !
+始终欢迎你的[贡献](contributing.md) !
 
-### Awesome Repositories
+### Awesome Repositories 极赞的仓库资源
 
-Repository | Description
+仓库名 | 描述-
 ---- | ----
-[Android Security](https://github.com/ashishb/android-security-awesome) 			| Collection of Android security related resources
-[AppSec](https://github.com/paragonie/awesome-appsec)								| Resources for learning about application security
-[Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) 						| List of Bug Bounty Programs and write-ups from the Bug Bounty hunters
-[Cheatsheets](https://github.com/jshaw87/Cheatsheets)	| Penetration Testing / Security Cheatsheets
-[CTF](https://github.com/apsdehal/awesome-ctf) 										| List of CTF frameworks, libraries, resources and softwares
-[Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills) | Curated list of hacking environments where you can train your cyber skills legally and safely
-[DevSecOps](https://github.com/devsecops/awesome-devsecops) 						| List of awesome DevSecOps tools with the help from community experiments and contributions
-[Exploit Development](https://github.com/FabioBaroni/awesome-exploit-development) 	| Resources for learning about Exploit Development
-[Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) 								| List of fuzzing resources for learning Fuzzing and initial phases of Exploit Development like root cause analysis
-[Hacking](https://github.com/carpedm20/awesome-hacking) 						| List of awesome Hacking tutorials, tools and resources
-[Honeypots](https://github.com/paralax/awesome-honeypots) 							| List of honeypot resources
-[Incident Response](https://github.com/meirwah/awesome-incident-response) 			| List of tools for incident response
-[Industrial Control System Security](https://github.com/hslatman/awesome-industrial-control-system-security)      | List of resources related to Industrial Control System (ICS) security
-[InfoSec](https://github.com/onlurking/awesome-infosec) 							| List of awesome infosec courses and training resources
-[IoT Hacks](https://github.com/nebgnahz/awesome-iot-hacks) 							| Collection of Hacks in IoT Space
-[Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) 				| List of awesome malware analysis tools and resources
-[OSINT](https://github.com/jivoi/awesome-osint) 									 | List of amazingly awesome Open Source Intelligence (OSINT) tools and resources
-[OSX and iOS Security](https://github.com/ashishb/osx-and-ios-security-awesome) 	| OSX and iOS related security tools
-[Pcaptools](https://github.com/caesar0301/awesome-pcaptools) 						| Collection of tools developed by researchers in the Computer Science area to process network traces
-[Pentest](https://github.com/enaqx/awesome-pentest) 								| List of awesome penetration testing resources, tools and other shiny things
-[PHP Security](https://github.com/ziadoz/awesome-php#security) 						| Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities
-[Reversing](https://github.com/fdivrp/awesome-reversing) 						| List of awesome reverse engineering resources
-[Sec Talks](https://github.com/PaulSec/awesome-sec-talks) 							| List of awesome security talks
-[SecLists](https://github.com/danielmiessler/SecLists) 								| Collection of multiple types of lists used during security assessments
-[Security](https://github.com/sbilly/awesome-security) 								| Collection of awesome software, libraries, documents, books, resources and cools stuffs about security
-[Social Engineering](https://github.com/v2-dev/awesome-social-engineering) | List of awesome social engineering resources
-[Static Analysis](https://github.com/mre/awesome-static-analysis) 					| List of static analysis tools, linters and code quality checkers for various programming languages
-[Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) 		| List of Awesome Threat Intelligence resources
-[Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) 	| List of resources for learning about vehicle security and car hacking
-[Vulnerability Research](https://github.com/re-pronin/awesome-vulnerability-research) | List of resources about Vulnerability Research
-[Web Hacking](https://github.com/infoslack/awesome-web-hacking) 					| List of web application security
-[Windows Exploitation](https://github.com/enddo/awesome-windows-exploitation) 		| List of awesome Windows Exploitation resources and shiny things
-[WiFi Arsenal](https://github.com/0x90/wifi-arsenal) 								| Pack of various useful/useless tools for 802.11 hacking
+[Android Security](https://github.com/ashishb/android-security-awesome) 			| 安卓安全相关资源的整理
+[AppSec](https://github.com/paragonie/awesome-appsec)								| 安卓安全相关的资源
+[Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) 						| 来自漏洞赏金猎人的漏洞赏金程序与write-up整理
+[Cheatsheets](https://github.com/jshaw87/Cheatsheets)	| 渗透测试/安全便签
+[CTF](https://github.com/apsdehal/awesome-ctf) 										| CTF框架、资料库、资源和软件的整理
+[Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills) | 供技术训练的安全合法黑客环境整理
+[DevSecOps](https://github.com/devsecops/awesome-devsecops) 						| 受社区实验和贡献帮助，极好的DevSecOps工具整理
+[Exploit Development](https://github.com/FabioBaroni/awesome-exploit-development) 	| 学习利用开发的资
+[Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) 								| 用于模糊测试学习与初级利用开发（如根本原因分析法）的模糊测试资源整理
+[Hacking](https://github.com/carpedm20/awesome-hacking) 						| 极好的黑客指南、工具与资源整理
+[Honeypots](https://github.com/paralax/awesome-honeypots) 							| 蜜罐资源整理
+[Incident Response](https://github.com/meirwah/awesome-incident-response) 			| 应急响应工具整理
+[Industrial Control System Security](https://github.com/hslatman/awesome-industrial-control-system-security)      | 与工控系统安全相关的资源整理
+[InfoSec](https://github.com/onlurking/awesome-infosec) 							| 极好的信息安全课程和训练资源整理
+[IoT Hacks](https://github.com/nebgnahz/awesome-iot-hacks) 							| 物联网空间黑客资源整理
+[Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) 				| 极好的恶意软件分析攻击与资源整理
+[OSINT](https://github.com/jivoi/awesome-osint) 									 | 极好的开源情报(OSINT)工具与资源整理
+[OSX and iOS Security](https://github.com/ashishb/osx-and-ios-security-awesome) 	| OSX与iOS相关安全工具
+[Pcaptools](https://github.com/caesar0301/awesome-pcaptools) 						| 计算机科学领域研究者开发的进行网络跟踪的工具整理
+[Pentest](https://github.com/enaqx/awesome-pentest) 								| 极好渗透测试资源，工具及其他整理
+[PHP Security](https://github.com/ziadoz/awesome-php#security) 						|安全随机数生成、加密数据与漏洞扫描
+[Reversing](https://github.com/fdivrp/awesome-reversing) 						| 极好的逆向工程资源整理
+[Sec Talks](https://github.com/PaulSec/awesome-sec-talks) 							| 极好的安全演讲整理
+[SecLists](https://github.com/danielmiessler/SecLists) 								| 各种类型的在安全评估中用到的整理的收集
+[Security](https://github.com/sbilly/awesome-security) 								| 极好的关于安全的软件、资料库、文档、书籍、资源和酷酷的小玩意的收集
+[Social Engineering](https://github.com/v2-dev/awesome-social-engineering) | 极好对的社会工程学资源整理
+[Static Analysis](https://github.com/mre/awesome-static-analysis) 					| 静态分析工具、各种语言的格式和代码质量检查器的整理
+[Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) 		| 极好的威胁情报资源收集
+[Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) 	| 学习物联网安全和汽车攻击的资源整理
+[Vulnerability Research](https://github.com/re-pronin/awesome-vulnerability-research) | 漏洞研究资源整理
+[Web Hacking](https://github.com/infoslack/awesome-web-hacking) 					| web应用安全相关整理
+[Windows Exploitation](https://github.com/enddo/awesome-windows-exploitation) 		| 极好的Windows的漏洞利用资源与有亮点的东西的整理
+[WiFi Arsenal](https://github.com/0x90/wifi-arsenal) 								| 802.11无线攻击中的各种有用/无用的工具整理
 
 ### Other useful repositories
 
@@ -86,3 +86,5 @@ Follow **Hack with GitHub** on your favorite social media to get daily updates o
 ### Contributions
 
 Please have a look at [contributing.md](contributing.md)
+
+
